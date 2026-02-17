@@ -19,7 +19,6 @@ GPA: **3.54 / 4.0**
 ---
 
 ## 🏆 Professional Training
-
 **ITI – Information Technology Institute (9-Month Program)**  
 Track: Professional Development using .NET  
 Specialization: BI-Infused CRM (Microsoft Dynamics 365)
@@ -28,6 +27,10 @@ Specialization: BI-Infused CRM (Microsoft Dynamics 365)
 ✔ CRM Customization & Integration  
 ✔ Business Intelligence & Data-driven Solutions  
 ✔ Real-world Scalable System Design  
+
+**Route-Academy**
+
+Track: Full-Stack using .NET & Angular
 
 ---
 
@@ -45,47 +48,48 @@ Strong foundation in:
 
 ---
 
-## 🚀 Technical Stack (Auto Style Icons)
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,bootstrap,python,flask,sqlserver,azure,docker,git,github" />
-</p>
+- 🏢 Full-Stack Developer specializing in Backend Development with expertise in .NET, Node.js and Dockerization.
+- 🎓 Currently pursuing a Bachelor's degree in Computer Science.
+- 🌱 Passionate about Backend Performance, Networking, Distributed Systems, and Cloud Computing.
+- 💬 Always open to discussions on Web Development, Backend Architecture, Data Structures, and Algorithms.
+- ⚡ Fun Fact: ***It’s attention to detail that makes the difference between average and stunning.***
 
----
 
-## 🧠 Core Strengths
+## 🛠️ Tech Stack
 
-- 🔐 Secure API Development
-- 🏗 Clean & Onion Architecture
-- 📊 BI-driven CRM Solutions
-- 🤖 AI & Computer Vision Integration
-- ☁ Cloud Deployment (Azure)
-- 🔄 CI/CD with GitHub Actions
-- 🧪 Unit Testing & Code Quality
-- ⚡ Performance Tuning
+### Backend Development
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
----
+### Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 
-## 🚀 Featured Projects
 
-### 🌿 AI Plant Disease Detection System  
-Angular + ASP.NET Core + AI Model Integration with real-time analysis.
+### Programming Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 
-### 🧾 Enterprise Order Management System  
-Onion Architecture, JWT Authentication, Role-based Authorization.
 
-### 🎭 Facial Emotion Recognition Web Application  
-ML model integrated with real-time web analytics dashboard.
-
----
-
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziadibrahim-12&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ## 📊 GitHub Analytics
 
